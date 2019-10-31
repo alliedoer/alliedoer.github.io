@@ -1,0 +1,390 @@
+
+.all{
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+
+
+
+
+.h1{
+  position: absolute;
+  top:20px;
+}
+
+.letterr{
+position:absolute;
+top:-152px;
+left:-300px;
+
+}
+.letterr:hover .color{
+background-color: rgb(150,60,10);
+}
+
+.clip1 {
+  top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 335px;
+  top:300px;
+  transform: rotate(180deg);
+
+
+}
+
+.circle1 {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+  opacity: 0.5;
+}
+.semi2{
+  top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 380px;
+  top:230px;
+transform: rotate(90deg);
+
+
+}
+.semi22{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+    opacity: 0.5;
+
+}
+
+
+
+.lettera{
+position:absolute;
+top:-150px;
+left:-70px;
+}
+.lettera:hover .color{
+background-color: rgb(150,60,10);
+}
+.circle2 {
+width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 300px;
+  left: 320px;
+  background-color: rgb(0,0,0); 
+  border-radius: 50%;
+  opacity: 0.5;
+
+}
+.semi3{
+  top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 460px;
+  top:330px;
+transform: rotate(-40deg);
+  
+}
+
+.semi23{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+.lettern{
+position:absolute;
+top:-150px;
+left:210px;
+}
+
+.lettern:hover .color{
+background-color: rgb(150,60,10);
+}
+
+.clip3{
+ top: 400px;
+  left: 90px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 330px;
+  top:300px;
+  transform: rotate(0deg);
+  opacity: 0.5;
+}
+
+.semin1{
+width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+}
+
+.clip4{
+top: 400px;
+  left: 90px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 386px;
+  top:244px;
+transform: rotate(90deg);
+opacity: 0.5;
+}
+
+.semin2{
+  width: 210px;
+  height: 210px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+}
+
+.clip5{ 
+  top: 400px;
+  left: 130px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 440px;
+  top:292px;
+  transform: rotate(180deg);
+  opacity: 0.5;
+
+}
+
+.semin3{
+width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+}
+
+
+.letterg{
+position:absolute;
+top:-150px;
+left:-130px;
+
+}
+.letterg:hover .color{
+background-color: rgb(150,60,10);
+}
+
+.circleg{
+ width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 300px;
+  left: 900px;
+  background-color: rgb(0,0,0); 
+  border-radius: 50%;
+  opacity: 0.5;
+
+}
+
+
+
+.semig{
+  top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 1020px;
+  top:380px;
+transform: rotate(-155deg);
+}
+
+
+
+.semi2g{
+ width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+
+
+.lettere{
+position:absolute;
+top:-132px;
+left:670px;
+}
+.lettere:hover .color{
+background-color: rgb(150,60,10);
+}
+
+.clipe {
+  top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 355px;
+  top:320px;
+  transform: rotate(310deg);
+}
+
+.circlee {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+  opacity: 0.5;
+}
+.semie{
+  top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 380px;
+  top:230px;
+transform: rotate(90deg);
+}
+.semie2{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+    opacity: 0.5;
+
+}
+
+.letters{
+position:absolute;
+top:-152px;
+left:900px;
+}
+.letters:hover .color{
+background-color: rgb(150,60,10);
+}
+
+
+
+
+.clips{
+ top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 380px;
+  top:342px;
+  transform: rotate(240deg);
+}
+
+
+
+.circles{
+	  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+
+
+.semis{
+	 top: 400px;
+  left: 50px;
+  width: 100px;
+  height: 208px;
+  background-color: transparent;
+  overflow: hidden;
+  position:absolute;
+  left: 380px;
+  top:260px;
+transform: rotate(60deg);
+}
+
+
+
+.semis2{
+	  width: 200px;
+  height: 200px;
+  background-color: rgb(0,0,0);
+  border-radius: 50%;
+    opacity: 0.5;
+}
+
+
+
+.par1{
+  font-family: helvetica;
+position: absolute;
+top:460px;
+left:35px;
+width:470px;
+line-height: 16px;
+  text-indent: 50px;
+    font-size: 18px;
+ word-spacing: .125px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,211 @@
+.background{
+	position: absolute;
+	top:0;
+	left:0;
+	width: 300vw;
+	height: 400vh;
+	background-color: black;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position: center center; if design is meant to stay center use this, if u want it to be anchored to for ex the upper le ft then dont use it
+}
+
+
+
+
+.wrapper{
+position: absolute;
+top:0;
+left:0;
+bottom:0;
+right:0;
+margin:auto;
+
+width:1024px;
+height:700px;
+
+}
+
+
+ h1{
+	position: absolute;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+	font-size: 140px;
+	top:26px;
+	left:-496px;
+	width:100%;
+	text-align: center;
+	color: rgb(255,20,147);
+}
+
+h2{
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+	font-size: 141px;
+	top:160px;
+	left:-495px;
+	width:100%;
+	text-align: center;
+	color: rgb(255,20,147);
+}
+ h3{
+	position: absolute;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+	font-size: 140px;
+	top:-24px;
+	left:-500px;
+	width:100%;
+	text-align: center;
+	color: white;
+}
+
+h4{
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+	font-size: 140px;
+	top:90px;
+	left:-500px;
+	width:100%;
+	text-align: center;
+	color: white;
+}
+
+.line{
+position: absolute;
+top:290px;
+left:-280px;
+width:600px;
+height:5px;
+background-color: white;
+border-radius:0%;
+}
+
+.time{
+	color: rgb(255,255,255);
+position: absolute;
+top:660px;
+left:-290px;
+width:100%;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+font-size: 24px;
+
+
+}
+
+.address{
+	color: rgb(255,255,255);
+	position: absolute;
+top: 690px;
+left:-290px;
+width: 100%;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+font-size: 24px;
+}
+
+.price{
+	color: rgb(255,255,255);
+	position: absolute;
+top:720px;
+left: -780px;
+width: 100%;
+font-size:24px;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+font size: 24px;
+
+}
+.pic{
+	position: absolute;
+top:20px;
+left:700px;
+}
+
+
+@media (max-width: 1024px) {
+	.wrapper{
+
+		width:375px;
+		height:667px;
+	}
+	
+	h1{
+		color:rgb(255,20,147);
+		top:-50px;
+		font-size:70px;
+		left:0px;
+		text-align: center;
+	}
+	h2{
+		color:rgb(255,20,147);
+		top:30px;
+		font-size:70px;
+		left:0px;
+		text-align: center;
+	}
+	h3{
+		color:white;
+		top:-73px;
+		font-size:70px;
+		left:-5px;
+		text-align: center;
+		color: white;
+	}
+	h4{
+		color:white;
+		top:-4px;
+		font-size:70px;
+		left:-5px;
+		text-align: center;
+		color: white;
+	}
+	.line{
+		top:90px;
+		left:55px;
+		width:70%;
+		height: 3px;
+
+		
+	}
+	.pic{
+	position: absolute;
+top:170px;
+left:10px;
+z-index:;
+}
+
+.time{
+	top:610px;
+	left:30px;
+			color:white;
+font-size: 20px;
+}
+.address{
+	top:640px;
+	left:30px;
+	line-height: 24px;
+			color: white;
+font-size:12px;
+}
+.price{
+	top:650px;
+	left:-140px;
+	font-size:20px;
+	color:white;
+
+}
+
+
+}
+
+
+

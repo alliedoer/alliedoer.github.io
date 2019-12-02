@@ -1,0 +1,69 @@
+.image1{
+	position: absolute;
+	top: 170px;
+	left: 26px;
+	width: 20%;
+	height: auto;
+}
+.image2{
+	position: absolute;
+	top: 70px;
+	left: 27px;
+	width: 30%;
+	height: auto;
+}
+
+.tptitle{
+	position: absolute;
+	top:8px;
+	font-size: 15px;
+	left: 27px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);
+}
+p{
+	position: absolute;
+	top:390px;
+	font-size: 9px;
+	left: 27px;
+	width: 200px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);
+
+}
+ol{
+	position: absolute;
+	top: 90px;
+	font-size: 12px;
+	left: 400px;
+	width: 200px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

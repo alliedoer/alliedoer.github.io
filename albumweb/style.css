@@ -1,11 +1,26 @@
-.image1{
-	position: absolute;
-	top: 170px;
-	left: 26px;
-	width: 20%;
-	height: auto;
+.wrapper{
+	position: relative;
+	margin: 0 auto;
+width: calc(80vw + 28px);
 }
-.image2{
+
+
+
+
+.tompetty1{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+
+.tompetty2{
 	position: absolute;
 	top: 70px;
 	left: 27px;
@@ -15,12 +30,12 @@
 
 .tptitle{
 	position: absolute;
-	top:8px;
-	font-size: 15px;
-	left: 27px;
+	top:49px;
+	font-size: 14px;
+	left: 340px;
 	color:;
 	letter-spacing: 2px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Bebas Neue', cursive;
 	color: rgb(20,20,20);
 }
 p{
@@ -37,9 +52,82 @@ p{
 }
 ol{
 	position: absolute;
-	top: 90px;
-	font-size: 12px;
-	left: 400px;
+	top: 88px;
+	font-size: 18px;
+	left: 720px;
+	width: 200px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);
+}
+
+
+.brunopic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.brunopic1{
+position: absolute;
+	top: 70px;
+	left: 27px;
+	width: 30%;
+	height: auto;
+}
+.brunotitle{
+	position: absolute;
+	top:49px;
+	font-size: 14px;
+	left: 520px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+ .eltonpic{
+ 		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+ }
+
+ .eltonpic1{
+position: absolute;
+	top: 70px;
+	left: 27px;
+	width: 30%;
+	height: auto;
+}
+
+.eltontitle{
+	position: absolute;
+	top:49px;
+	font-size: 14px;
+	left: 650px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+
+.eltonlist{
+		position: absolute;
+	top: 88px;
+	font-size: 18px;
+	left: 720px;
 	width: 200px;
 	color:;
 	letter-spacing: 2px;
@@ -49,21 +137,555 @@ ol{
 
 
 
+.tylerpic{
+ 		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.tylerpic1{
+	position: absolute;
+	top: 70px;
+	left: 27px;
+	width: 30%;
+	height: auto;
+}
+.tylertitle{
+	position: absolute;
+	top:49px;
+	font-size: 14px;
+	left: 300px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+
+.frankpic{
+	 		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.frankpic1{
+		position: absolute;
+	top: 110px;
+	left: 27px;
+	width: 45%;
+	height: auto;
+}
+
+.spotifyfrank{
+		position: absolute;
+	top: 520px;
+	left: 698px;
+	width: 18%;
+	height: auto;
+}
+
+.orange{
+	position: absolute;
+	top:107px;
+	font-size: 10px;
+	left: 505px;
+	width: 200px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);	
+}
+.franktitle{
+	position: absolute;
+	top:-15px;
+	font-size: 30px;
+	left: 27px;
+	color:;
+	letter-spacing: 2px;
+font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+.frankname{
+		position: absolute;
+	top:45px;
+	font-size: 15px;
+	left: 390px;
+	color:;
+	letter-spacing: 2px;
+font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
 
 
+.kanyepic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.kanyetitle{
+	position: absolute;
+	top:43px;
+	font-size: 16px;
+	left: 410px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+.kanyetracklist{
+		position: absolute;
+	top: 96px;
+	font-size: 16px;
+	left: 760px;
+	width: 200px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+.kanyelist{
+	position: absolute;
+	top: 108px;
+	font-size: 13px;
+	left: 720px;
+	width: 200px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);
+}
+.kanyedescription{
+	position: absolute;
+	top:455px;
+	font-size: 10px;
+	left: -200px;
+	width: 400px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(20,20,20);
+}
+.spotifykanye{
+		position: absolute;
+	top: 580px;
+	left: 820px;
+	width: 18%;
+	height: auto;
+}
+
+.tompetty1{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+.pluspic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.pluspic1{
+		position: absolute;
+	top: 110px;
+	left: 27px;
+	width: 45%;
+	height: auto;
+}
 
 
+.edtitle{
+		position: absolute;
+	top:49px;
+	font-size: 14px;
+	left: 140px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+
+.miatitle{
+	position: absolute;
+	top:49px;
+	font-size: 14px;
+	left: 140px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+.newtitle{
+	position: absolute;
+	top:49px;
+	font-size: 14px;
+	left: 140px;
+	color:;
+	letter-spacing: 2px;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(20,20,20);
+}
+
+.newpic1{
+	position: absolute;
+	top: 110px;
+	left: 27px;
+	width: 45%;
+	height: auto;
+}
 
 
+.redpic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.torpedopic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.migo1pic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
 
 
+.creampic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.gradpic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.loverpic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.hotlinepic{
+			position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.igorpic{
+				position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.loveonpic{
+					position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
 
 
+.partypic{
+position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
 
 
+.newlightpic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+.thankupic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
 
+.tamepic{
+			position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
 
+.lukaspic{
+				position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
 
+.maniapic{
+	position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
 
+.chancepic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
 
+.feellikepic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
+
+.troyepic{
+			position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
+
+.khalidpic{
+				position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+.childishpic{
+		position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
+
+.nirvanapic{
+			position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.wasthesamepic{
+				position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.dividepic{
+					position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;
+}
+
+.britneypic{
+					position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
+
+.fifthpic{
+						position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
+
+.riripic{
+			position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
+
+.continuumpic{
+				position: relative;
+  display: inline-block;
+  width: 20vw;
+  height: auto;
+  background-color: rgb(12, 190, 90);
+  margin-top: 4px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-bottom: -4px;	
+}
 

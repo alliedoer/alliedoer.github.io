@@ -1,11 +1,667 @@
+.titlescreen{
+    position: relative;
+        top:10px;
+        left:80px;
+       letter-spacing: 2px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 59px;
+    color: rgb(20,20,20);
+}
+
 .wrapper{
 	position: relative;
+	top:10px;
 	margin: 0 auto;
 width: calc(80vw + 28px);
 }
 
+.eltpar{
+	    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 300px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+.fifthtitle{
+					position: absolute;
+    top: -10px;
+    font-size: 27px;
+    left: 614px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.fifthname{
+			    position: absolute;
+    top: 81px;
+    font-size: 18px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.divititle{
+					position: absolute;
+    top: -10px;
+    font-size: 27px;
+    left: 614px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.diviname{
+		    position: absolute;
+    top: 81px;
+    font-size: 18px;
+    left: 733px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.drkname{
+	    position: absolute;
+    top: 81px;
+    font-size: 18px;
+    left: 853px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.drktitle{
+					position: absolute;
+    top: -10px;
+    font-size: 27px;
+    left: 554px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.nirvname{
+	    position: absolute;
+    top: 81px;
+    font-size: 17px;
+    left: 823px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.nirvtitle{
+				position: absolute;
+    top: -10px;
+    font-size: 27px;
+    left: 554px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.khname{
+		    position: absolute;
+    top: 81px;
+    font-size: 17px;
+    left: 823px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.khtitle{
+			position: absolute;
+    top: -10px;
+    font-size: 27px;
+    left: 554px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.khpa{
+    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 400px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);	
+}
+.contname{
+		    position: absolute;
+    top: 81px;
+    font-size: 17px;
+    left: 753px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.conttitle{
+				position: absolute;
+    top: -10px;
+    font-size: 27px;
+    left: 604px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.contpa{
+  position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 400px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);		
+}
+.ririname{
+	    position: absolute;
+    top: 81px;
+    font-size: 17px;
+    left: 833px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.rirititle{
+			position: absolute;
+    top: -15px;
+    font-size: 27px;
+    left: 554px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.feeltitle{
+		position: absolute;
+    top: -15px;
+    font-size: 27px;
+    left: 554px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.feelname{
+		    position: absolute;
+    top: 81px;
+    font-size: 16px;
+    left: 833px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.johnlist{
+
+}
+.chtitle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.chlist{
+	  position: absolute;
+    top: 154px;
+    font-size: 18px;
+    left: 591px;
+    width: 900px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;	
+}
+.chpa{
+		    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 360px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+.chname{
+		    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.taylorname{
+	    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.taylortitle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+
+}
+.manititle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.maniname{
+	 position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.igorname{
+		    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.igortitle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.igorlist{
+  position: absolute;
+    top: 154px;
+    font-size: 18px;
+    left: 591px;
+    width: 600px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;	
+}
+.lovertitle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.lovername{
+		    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.taypa{
+		    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 370px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+
+.gradpa{
+			    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 370px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+
+.migname{
+		    position: absolute;
+    top: 71px;
+    font-size: 17px;
+    left: 773px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.tomlist{
+				   position: absolute;
+    top: 154px;
+    font-size: 18px;
+    left: 591px;
+    width: 390px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;
+}
+
+.tompa{
+		    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 350px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+.paulname{
+	    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.newpa{
+	    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 370px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+
+.paultitle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.edaltitle{
+	position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.eddname{
+	    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 703px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.edlista{
+			   position: absolute;
+    top: 154px;
+    font-size: 18px;
+    left: 591px;
+    width: 390px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;
+}
+.miname{
+    position: absolute;
+    top: 101px;
+    font-size: 14px;
+    left: 698px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);	
+}
+.mialb{
+	position: absolute;
+    top: 10px;
+    font-size: 30px;
+    left: 594px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.kanname{
+		    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 783px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.kanlist{
+		   position: absolute;
+    top: 124px;
+    font-size: 18px;
+    left: 591px;
+    width: 310px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;
+}
+.kapar{
+	    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 370px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+
+.franame{
+		    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 783px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.frankpa{
+		    position: absolute;
+    top: 547px;
+    font-size: 10px;
+    left: 55px;
+    width: 340px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+.tylerp{
+	    position: absolute;
+    top: 534px;
+    font-size: 10px;
+    left: 55px;
+    width: 340px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+.tylert{
+	    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 733px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.tylist{
+	   position: absolute;
+    top: 144px;
+    font-size: 18px;
+    left: 591px;
+    width: 220px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;
+}
+
+.eltalb{
+position: absolute;
+    top: 0px;
+    font-size: 23px;
+    left: 544px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.elttitle{
+		    position: absolute;
+    top: 75px;
+    font-size: 17px;
+    left: 860px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+
+.columns{
+position: absolute;
+left: 560px;
+top:;
+columns: 2;
+width: 390px;
+-webkit-columns:2;
+-moz-columns:2;
+}
 
 
+.buttonpic{
+		position: absolute;
+	top: -50px;
+	left: -65px;
+	width: 20%;
+	height: auto;
+}
+
+
+
+.brunpar{
+  position: absolute;
+    top: 539px;
+    font-size: 10px;
+    left: 55px;
+    width: 380px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
+}
+.bruntitle{
+position: absolute;
+    top: -15px;
+    font-size: 28px;
+    left: 544px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+}
+.brunname{
+    position: absolute;
+    top: 76px;
+    font-size: 17px;
+    left: 860px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+
+}
 
 .tompetty1{
 	position: relative;
@@ -29,14 +685,14 @@ width: calc(80vw + 28px);
 }
 
 .tptitle{
-	position: absolute;
-	top:49px;
-	font-size: 14px;
-	left: 340px;
-	color:;
-	letter-spacing: 2px;
-	font-family: 'Bebas Neue', cursive;
-	color: rgb(20,20,20);
+	    position: absolute;
+    top: 81px;
+    font-size: 14px;
+    left: 603px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
 }
 p{
 	position: absolute;
@@ -51,15 +707,16 @@ p{
 
 }
 ol{
-	position: absolute;
-	top: 88px;
-	font-size: 18px;
-	left: 720px;
-	width: 200px;
-	color:;
-	letter-spacing: 2px;
-	font-family: 'Montserrat', sans-serif;
-	color: rgb(20,20,20);
+    position: absolute;
+    top: 144px;
+    font-size: 18px;
+    left: 591px;
+    width: 200px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
+    line-height: 1.5;
 }
 
 
@@ -180,41 +837,41 @@ position: absolute;
 }
 
 .frankpic1{
-		position: absolute;
-	top: 110px;
-	left: 27px;
-	width: 45%;
-	height: auto;
+position: absolute;
+    top: 59px;
+    left: 58px;
+    width: 45%;
+    height: auto;
 }
 
 .spotifyfrank{
-		position: absolute;
-	top: 520px;
-	left: 698px;
-	width: 18%;
-	height: auto;
+	    position: absolute;
+    top: 564px;
+    left: 805px;
+    width: 18%;
+    height: auto;
 }
 
 .orange{
-	position: absolute;
-	top:107px;
-	font-size: 10px;
-	left: 505px;
-	width: 200px;
-	color:;
-	letter-spacing: 2px;
-	font-family: 'Montserrat', sans-serif;
-	color: rgb(20,20,20);	
+    position: absolute;
+    top: 527px;
+    font-size: 10px;
+    left: 55px;
+    width: 320px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20,20,20);
 }
 .franktitle{
-	position: absolute;
-	top:-15px;
-	font-size: 30px;
-	left: 27px;
-	color:;
-	letter-spacing: 2px;
-font-family: 'Bebas Neue', cursive;
-	color: rgb(20,20,20);
+position: absolute;
+    top: -15px;
+    font-size: 30px;
+    left: 544px;
+    color: ;
+    letter-spacing: 2px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(20,20,20);
 }
 .frankname{
 		position: absolute;

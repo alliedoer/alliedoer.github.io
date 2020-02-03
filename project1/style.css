@@ -1,0 +1,393 @@
+
+body{
+	max-width: 500px;
+	margin-left: auto;
+	margin-right:auto;
+	background-color: rgb(245,258,265);
+}
+
+
+.covertitle{
+position: relative;
+top:40px;
+left: 15px;
+font-family: 'PT Serif', serif;
+}
+.back2{
+position: relative;
+top:-380px;
+left: -10px;
+width:105%;
+
+}
+.dog1{ 
+position: relative;
+top:-450px;
+left: -20px;
+width: 240px;
+height: auto;
+}
+.dog2{
+position: relative;
+top:-560px;
+left: -20px;
+width: 240px;
+height: auto;
+}
+.dog3{
+position: relative;
+top:-670px;
+left: -20px;
+width: 240px;
+height: auto;
+}
+.dog4{
+position: relative;
+top:-780px;
+left: -20px;
+width: 240px;
+height: auto;
+}
+.dog5{
+position: relative;
+top:-890px;
+left: -20px;
+width: 240px;
+height: auto;
+
+}
+
+
+.bijoutitle{
+position: absolute;
+top:40px;
+left: 30px;
+font-size:50px;
+font-family: 'Bree Serif', serif;
+
+}
+.bij1{
+position: relative;
+top:150px;
+left: 20px;
+width: 300px;
+height: auto;
+margin-bottom: -75px;
+}
+.bij2{
+position: relative;
+top:250px;
+left: 20px;
+width: 300px;
+height: auto;
+}
+
+.bijinfo{
+
+
+}
+.bijlist1{
+	
+}
+.bijfacts{
+
+}
+.bijlist2{
+
+}
+
+.bijdescription{
+
+}
+.filsontitle{
+position: absolute;
+top:40px;
+left: 30px;
+font-size:50px;
+font-family: 'Bree Serif', serif;
+
+}
+.filpic1{
+position: relative;
+top:150px;
+left: 20px;
+width: 300px;
+height: auto;
+margin-bottom: -75px;
+}
+.filpic2{
+	position: relative;
+top:250px;
+left: 20px;
+width: 300px;
+height: auto;
+}
+.filpic3{
+	position: relative;
+top:250px;
+left: 20px;
+width: 300px;
+height: auto;
+}
+.filinfo{
+
+}
+
+.filist1{
+
+}
+
+.filstory{
+
+}
+.fildescription{
+
+}
+.filname{
+
+}
+.fillist2{
+
+}
+.filadopt{
+
+}
+.filadopt2{
+
+}
+.fildopt3{
+
+}
+
+
+.roarktitle{
+
+}
+
+.bopic1{
+
+}
+
+.bopic2{
+
+}
+.bopic3{
+
+}
+.bopic4{
+
+}
+.boinfo{
+
+}
+.bolist1{
+
+}
+.bofacts{
+
+}
+.bolist2{
+
+}
+.bostory{
+
+}
+.bodescription{
+
+}
+.boinfo{
+
+}
+.bolist3{
+
+}
+.boadopt{
+
+}
+.bop2{
+
+}
+.bomore{
+
+}
+.bop3{
+
+}
+
+
+.mardittle{
+
+}
+.mardipic1{
+
+}
+.mardipic2{
+
+}
+.mardiinfo{
+
+}
+.mardilist1{
+
+}
+.mardifacts{
+
+}
+.mardilist2{
+
+}
+.mardistory{
+
+}
+.mardidescription{
+
+}
+
+.mardiinfo{
+
+}
+.mardilist3{
+
+}
+.mardiadopt{
+
+}
+.mardilist4{
+
+}
+.mardiadd{
+
+}
+
+.mardip2{
+
+}
+.mardilist5{
+
+}
+.mardimeet{
+
+}
+.mardip3{
+
+}
+.mardirescue{
+
+}
+.mardip4{
+
+}
+
+
+
+.danetitle{
+
+}
+
+.danepic1{
+
+}
+
+.danepic2{
+	
+}
+
+.danepic3{
+	
+}
+
+.danepic4{
+	
+}
+.daneinfo{
+
+}
+.danelist1{
+
+}
+.danefacts{
+
+}
+.danelist2{
+
+}
+.danestory{
+
+}
+.danedescription{
+
+}
+.danecontact{
+
+}
+.danelist3{
+
+}
+.daneadopt{
+
+}
+.danelist4{
+
+}
+.daneadd{
+
+}
+.danelist5{
+
+}
+.danefees{
+
+}
+.danemore{
+
+}
+
+.danep2{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

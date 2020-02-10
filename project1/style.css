@@ -6,13 +6,75 @@ body{
 	background-color: rgb(245,258,265);
 }
 
-
+.bijbody{
+		background-color: rgb(245,258,265);
+}
+.filbody{
+		background-color: rgb(245,258,265);
+}
+.mardibody{
+		background-color: rgb(245,258,265);
+}
+.danebody{
+		background-color: rgb(245,258,265);
+}
+.home1{
+	position: relative;
+	top: 300px ;
+	left: 130px;
+	width: 180px;
+	height: auto;
+}
 .covertitle{
 position: relative;
-top:40px;
+top:45px;
 left: 15px;
 font-family: 'PT Serif', serif;
+font-size: 45px;
+
 }
+.fullpg2{
+	position: relative;
+	top: -130px;
+	left: 0px;
+
+}
+.aname{
+position: absolute;
+top:310px;
+left: 240px;
+font-size:25px;
+font-family: 'PT Serif', serif;
+}
+.bname{
+position: absolute;
+top:510px;
+left: 240px;
+font-size:25px;
+font-family: 'PT Serif', serif;
+}
+.cname{
+position: absolute;
+top:710px;
+left: 240px;
+font-size:25px;
+font-family: 'PT Serif', serif;
+}
+.dname{
+position: absolute;
+top:910px;
+left: 240px;
+font-size:25px;
+font-family: 'PT Serif', serif;
+}
+.ename{
+position: absolute;
+top:1110px;
+left: 240px;
+font-size:25px;
+font-family: 'PT Serif', serif;
+}
+
 .back2{
 position: relative;
 top:-380px;
@@ -60,290 +122,637 @@ height: auto;
 
 .bijoutitle{
 position: absolute;
-top:40px;
+top:25px;
 left: 30px;
 font-size:50px;
-font-family: 'Bree Serif', serif;
+font-family: 'PT Serif', serif;
 
 }
+
+.backbij{
+position: relative;
+top:-330px;
+left: -10px;
+width:105%;
+}
+
 .bij1{
 position: relative;
-top:150px;
+top:-280px;
 left: 20px;
-width: 300px;
+width: 150px;
 height: auto;
-margin-bottom: -75px;
+
 }
 .bij2{
 position: relative;
-top:250px;
+top:-280px;
 left: 20px;
-width: 300px;
+width: 150px;
 height: auto;
 }
 
 .bijinfo{
-
+position: absolute;
+top:450px;
+left: 30px;
+font-size:22px;
+font-family: 'PT Serif', serif;
 
 }
 .bijlist1{
-	
+	position: absolute;
+top:500px;
+left: 10px;
+font-size:12px;
+font-family: 'PT Serif', serif;
 }
 .bijfacts{
-
+position: absolute;
+top:640px;
+left: 30px;
+font-size:22px;
+font-family: 'PT Serif', serif;
 }
 .bijlist2{
-
+	position: absolute;
+top:700px;
+left: 40px;
+font-size:12px;
+font-family: 'PT Serif', serif;
+}
+.storybij{
+position: absolute;
+top:770px;
+left: 30px;
+font-size:22px;
+font-family: 'PT Serif', serif;
 }
 
 .bijdescription{
-
+	position: absolute;
+top:820px;
+left: 40px;
+font-size:12px;
+font-family: 'PT Serif', serif;
+width: 300px;
 }
 .filsontitle{
 position: absolute;
-top:40px;
+top:20px;
 left: 30px;
 font-size:50px;
-font-family: 'Bree Serif', serif;
+font-family: 'PT Serif', serif;
 
+}
+.backfilson{
+position: relative;
+top:-670px;
+left: -10px;
+width:105%;
+}
+.home2{
+	position: relative;
+	top: 1620px;
+	left: 130px;
+	width: 180px;
+	height: auto;
 }
 .filpic1{
 position: relative;
-top:150px;
-left: 20px;
-width: 300px;
-height: auto;
-margin-bottom: -75px;
-}
-.filpic2{
-	position: relative;
 top:250px;
 left: 20px;
-width: 300px;
+width: 150px;
 height: auto;
+}
+.filpic2{
+position: relative;
+top:55px;
+left: 20px;
+width: 150px;
+height: 190px;
 }
 .filpic3{
 	position: relative;
-top:250px;
+top:160px;
 left: 20px;
-width: 300px;
+width: 150px;
 height: auto;
 }
 .filinfo{
-
+	position: relative;
+	top: -280px;
+	left: 20px;
+font-family: 'PT Serif', serif;
 }
 
-.filist1{
-
+.fillist1{
+position: relative;
+top: -280px;
+left: 10px;
+font-size:13px;
+font-family: 'PT Serif', serif;
 }
-
+.filsname{
+	position: relative;
+top: -280px;
+	left: 20px;
+	font-family: 'PT Serif', serif;
+}
+.filshots{
+	position: relative;
+top: -280px;
+left: 10px;
+}
 .filstory{
-
+		position: relative;
+top: -280px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .fildescription{
-
+		position: relative;
+top: -280px;
+left: 20px;
+font-size:13px;
+font-family: 'PT Serif', serif;
+width: 310px;
 }
 .filname{
-
+		position: relative;
+top: -280px;
+left: 10px;
 }
 .fillist2{
-
+	position: relative;
+top: -280px;
+left: 0px;
+font-size:13px;
+font-family: 'PT Serif', serif;
 }
 .filadopt{
-
-}
-.filadopt2{
-
-}
-.fildopt3{
-
+	position: relative;
+top: -280px;
+left: 10px;
 }
 
+.filadopt3{
+	position: relative;
+top: -280px;
+left: 20px;
+font-size:13px;
+font-family: 'PT Serif', serif;
+width: 310px;
+}
+.allroark{
+	position: relative;
+	top:-630px;
+	left: ;
+
+}
 
 .roarktitle{
-
+position: absolute;
+top:0px;
+left: 30px;
+font-size:50px;
+font-family: 'PT Serif', serif;
+}
+.backroark{
+position: relative;
+top:-550px;
+left: -5px;
+width:109%;
 }
 
 .bopic1{
+position: relative;
+top:120px;
+left: 20px;
+width: 170px;
+margin-bottom: -20px;
+margin-top: 10px;
+height: auto;
+}
+.home3{
 
+	position: relative;
+	top: 1570px;
+	left: 130px;
+	width: 180px;
+	height: auto;
 }
 
-.bopic2{
-
-}
-.bopic3{
-
-}
 .bopic4{
-
+position: relative;
+top:120px;
+left: 20px;
+width: 170px;
+height: auto;
+margin-bottom: -20px;
+margin-top: 10px;
 }
 .boinfo{
-
+		position: relative;
+top: -200px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .bolist1{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .bofacts{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .bolist2{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .bostory{
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
 
 }
 .bodescription{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .boinfo{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .bolist3{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .boadopt{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .bop2{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .bomore{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .bop3{
-
+		position: relative;
+top: 160px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 
 
-.mardittle{
+.mardititle{
+		position: relative;
+top: 40px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size: 40px;
+}
+.home4{
 
+	position: relative;
+	top: 4150px;
+	left: 130px;
+	width: 180px;
+	height: auto;
+}
+
+.allmardi{
+	position: relative;
+top: -130px;
+left:;
+}
+
+.backmardi{
+position: relative;
+top:-700px;
+left: -5px;
+width:109%;
 }
 .mardipic1{
-
+position: relative;
+top:170px;
+left: 20px;
+width: 170px;
+height: auto;
 }
 .mardipic2{
-
+position: relative;
+top:5px;
+left: 20px;
+width: 155px;
+height: auto;
 }
-.mardiinfo{
-
+.mardinfo{
+			position: relative;
+top: -300px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardilist1{
-
+		position: relative;
+top: -300px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .mardifacts{
-
+		position: relative;
+top: -280px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardilist2{
-
+		position: relative;
+top: -290px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .mardistory{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardidescription{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 
 .mardiinfo{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardilist3{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .mardiadopt{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardilist4{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .mardiadd{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 
 .mardip2{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .mardilist5{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 300px;
 }
 .mardimeet{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardip3{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
 }
 .mardirescue{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
 }
 .mardip4{
-
+		position: relative;
+top: -260px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 
 
 
 .danetitle{
-
+		position: relative;
+top: 40px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size: 40px;
 }
 
 .danepic1{
-
+position: relative;
+top:100px ;
+left:10px;
+width: 255px ;
+height: auto;
 }
-
-.danepic2{
-	
+.danemardi{
+	position: relative;
+top:-850px;
+left: -5px;
+width:109%;
 }
-
-.danepic3{
-	
-}
-
 .danepic4{
-	
+	position: relative;
+top:120px ;
+left:10px;
+width: 255px;
+height: auto;
 }
 .daneinfo{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danelist1{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danefacts{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danelist2{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danestory{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danedescription{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danecontact{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danelist3{
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
+}
+.home5{
 
+	position: relative;
+	top: 1900px;
+	left: 130px;
+	width: 180px;
+	height: auto;
 }
 .daneadopt{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danelist4{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .daneadd{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danelist5{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danefees{
-
+		position: relative;
+left: -0px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 .danemore{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 
 .danep2{
-
+		position: relative;
+top: -380px;
+left: 20px;
+font-family: 'PT Serif', serif;
+font-size:12px;
+width: 310px;
 }
 
 

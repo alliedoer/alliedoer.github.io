@@ -1,0 +1,146 @@
+body{
+	background-color: rgb(240,180,166);
+}
+.circle1 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle2 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+} 
+
+.circle3 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle4 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle5 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle6 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+
+.wrapper{
+	position: relative;
+	top: -900px;
+	left: 340px;
+}
+.circle7 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle8 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+} 
+
+.circle9 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle10 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle11 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+.circle12 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 80%;
+
+}
+
+
+
+
+

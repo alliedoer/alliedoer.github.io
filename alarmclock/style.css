@@ -9,7 +9,8 @@ body{
   left: 100px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
+
 
 }
 .circle2 {
@@ -20,7 +21,7 @@ body{
   left: 100px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
 } 
 
 .circle3 {
@@ -31,7 +32,7 @@ body{
   left: 100px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
 
 }
 .circle4 {
@@ -42,7 +43,7 @@ body{
   left: 250px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
 
 }
 .circle5 {
@@ -53,7 +54,7 @@ body{
   left: 250px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
 
 }
 .circle6 {
@@ -64,7 +65,7 @@ body{
   left: 250px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
 
 }
 
@@ -139,6 +140,29 @@ body{
   opacity: 80%;
 
 }
+
+
+
+.NEW{
+    width: 150px;
+  height: 150px;
+  position: relative;
+  top: -800px;
+  left: 400px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 50%;
+
+}
+
+
+
+
+
+
+
+
+
 
 
 

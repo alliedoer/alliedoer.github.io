@@ -1,6 +1,10 @@
 body{
 	background-color: rgb(240,180,166);
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
+
 .circle1 {
   width: 150px;
   height: 150px;
@@ -9,9 +13,14 @@ body{
   left: 100px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
+      animation-name: moveleftc1;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+  }
 
-}
 .circle2 {
   width: 150px;
   height: 150px;
@@ -20,7 +29,12 @@ body{
   left: 100px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
+        animation-name: moveleftc2;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 } 
 
 .circle3 {
@@ -31,7 +45,12 @@ body{
   left: 100px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
+        animation-name: moveleftc3;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 
 }
 .circle4 {
@@ -42,7 +61,12 @@ body{
   left: 250px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
+        animation-name: moveleftA1;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 
 }
 .circle5 {
@@ -53,7 +77,12 @@ body{
   left: 250px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
+  opacity: 50%;
+            animation-name: moveleftA2;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 
 }
 .circle6 {
@@ -64,8 +93,12 @@ body{
   left: 250px;
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
-  opacity: 80%;
-
+  opacity: 50%;
+        animation-name: moveleftA3;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 }
 
 .wrapper{
@@ -82,7 +115,11 @@ body{
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
   opacity: 80%;
-
+        animation-name: moveleftmid;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 }
 .circle8 {
   width: 150px;
@@ -93,6 +130,11 @@ body{
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
   opacity: 80%;
+          animation-name: moveleftmid2;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 } 
 
 .circle9 {
@@ -104,6 +146,11 @@ body{
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
   opacity: 80%;
+          animation-name: moveleftmid3;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 
 }
 .circle10 {
@@ -115,7 +162,11 @@ body{
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
   opacity: 80%;
-
+      animation-name: moveright12;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 }
 .circle11 {
   width: 150px;
@@ -126,7 +177,11 @@ body{
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
   opacity: 80%;
-
+      animation-name: moveright11;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 }
 .circle12 {
   width: 150px;
@@ -137,8 +192,323 @@ body{
   background-color: rgb(75, 140, 170); 
   border-radius: 50%;
   opacity: 80%;
+      animation-name: moveright1;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
 
 }
+
+
+
+   
+
+
+.wrapper1{
+  position: relative;
+  top: -1350px;
+  left: 540px;
+}
+
+.last1{
+    width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 100%;
+    animation-name: moveright22;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.last2{
+    width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 100%;
+    animation-name: moveright21;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.last3{
+    width: 150px;
+  height: 150px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 100%;
+    animation-name: moveright2;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+
+.last4{
+    width: 150px;
+  height: 150px;
+  position: relative;
+  top: -700px;
+  left: 400px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 100%;
+    animation-name: moveright33;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.last5{
+    width: 150px;
+  height: 150px;
+  position: relative;
+top: -700px;
+  left: 400px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 100%;
+    animation-name: moveright32;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.last6{
+    width: 150px;
+  height: 150px;
+  position: relative;
+top: -700px;
+  left: 400px;
+  background-color: rgb(75, 140, 170); 
+  border-radius: 50%;
+  opacity: 100%;
+  animation-name: moveright3;
+  animation-duration: 1s;
+  animation-delay: 15s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+
+
+.ALL{
+  position: relative;
+  top:  -90px;
+  left: -90px;
+
+}
+
+@keyframes moveright3{
+  0%{
+   left:400px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+@keyframes moveright32{
+  0%{
+   left:400px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+@keyframes moveright33{
+  0%{
+   left:400px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+
+
+
+
+
+
+@keyframes moveright2{
+  0%{
+   left:250px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+@keyframes moveright21{
+  0%{
+   left:250px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+@keyframes moveright22{
+  0%{
+   left:250px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+
+
+@keyframes moveright1{
+  0%{
+   left:250px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+@keyframes moveright11{
+  0%{
+   left:250px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+@keyframes moveright12{
+  0%{
+  left: 250px;
+
+  }
+  100%{
+    left:1000px;
+  }
+}
+
+
+
+
+
+
+@keyframes moveleftc1{
+  0%{
+  left: 100px;
+
+  }
+  100%{
+    left:-1000px;
+  }
+}
+@keyframes moveleftc2{
+  0%{
+  left: 100px;
+
+  }
+  100%{
+    left:-1000px;
+  }
+}
+@keyframes moveleftc3{
+  0%{
+  left: 100px;
+
+  }
+  100%{
+    left:-1000px;
+  }
+}
+
+@keyframes moveleftA1{
+0%{
+  left: 250px;
+}
+100%{
+  left: -1000px;
+}
+
+}
+
+@keyframes moveleftA2{
+0%{
+  left: 250px;
+}
+100%{
+  left: -1000px;
+}
+
+}
+
+
+@keyframes moveleftA3{
+0%{
+  left: 250px;
+}
+100%{
+  left: -1000px;
+}
+
+}
+
+@keyframes moveleftmid{
+  0%{
+    left:100px;
+  }
+  100%{
+    left: -1000px;
+}
+}
+
+@keyframes moveleftmid2{
+  0%{
+    left:100px;
+  }
+  100%{
+    left: -1000px;
+}
+}
+
+@keyframes moveleftmid3{
+  0%{
+    left:100px;
+  }
+  100%{
+    left: -1000px;
+}
+}
+
+
+
+
+
+
 
 
 
